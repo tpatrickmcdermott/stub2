@@ -1,2 +1,7 @@
 # stub2
-## html5 starter
+## scratchpad
+### code sample
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
