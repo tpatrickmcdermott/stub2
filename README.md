@@ -5,6 +5,6 @@
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
-```
-var $id = (e) => document.getElementById(e)
+```javascript
+const $id = (e) => document.getElementById(e)
 ```
