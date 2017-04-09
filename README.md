@@ -8,3 +8,6 @@ alert(s);
 ```javascript
 const $id = (e) => document.getElementById(e)
 ```
+```html
+<b>Bold Text</b>
+```
